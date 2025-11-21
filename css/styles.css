@@ -172,6 +172,15 @@ a:hover {
   margin: 2.5em 0;
 }
 
+.home-linkedin-banner {
+  text-align: center;
+  margin: 2.5em 0;
+}
+
+.linkedin-banner-content {
+  margin-top: 1.5em;
+}
+
 .home-featured-projects {
   margin: 2.5em 0;
 }
